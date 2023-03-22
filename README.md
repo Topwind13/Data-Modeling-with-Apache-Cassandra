@@ -11,7 +11,7 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 
 ## Project Overview
 
-In this project, I develop to model data by creating tables in Apache Cassandra to run queries. the ETL pipeline that transfers data from a set of CSV files within a directory are provided by Udacity. The ETL Udacity provided you with a project template that takes care of all the imports and provides a structure for ETL pipeline.
+In this project, I develop to model data by creating tables in Apache Cassandra to run queries. The ETL pipeline that transfers data from a set of CSV files within a directory are provided by Udacity. Udacity provide a project template that takes care of all the imports and provides a structure for ETL pipeline.
 
 ## Datasets
 
